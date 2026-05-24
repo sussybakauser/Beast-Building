@@ -1,1 +1,1 @@
-# Beast-Building
+# Beast Building
