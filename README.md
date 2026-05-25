@@ -1,6 +1,6 @@
 # Beast Building
 
-#Transformice is an MMO Mouse Simulator platformer about dozens of mice running to bring back the cheese, trying to avoid pitfalls, leading to unexpected and hilarious situations!
+Transformice is an MMO Mouse Simulator platformer about dozens of mice running to bring back the cheese, trying to avoid pitfalls, leading to unexpected and hilarious situations!
 
 You have less than two minutes to be the first mouse to bring back the cheese by all means, with the Shaman's help or curse within the multiple game modes and millions levels available: no two games are ever the same!
 
