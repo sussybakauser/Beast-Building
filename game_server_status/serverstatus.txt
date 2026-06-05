@@ -1,0 +1,3 @@
+// Server Status Options: Working, InService, InDeveloping
+// Default:Working
+serverstatus = Working
