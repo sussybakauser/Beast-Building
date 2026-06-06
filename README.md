@@ -1,6 +1,6 @@
 # Beast Building
 
-<iframe frameborder="0" src="https://itch.io/embed/4648703" width="552" height="167"><a href="https://glichynstudios.itch.io/beast-building">Beast Building by FallGuyGlichyYT_</a></iframe>
+[![Game Available on Itch.io (it's a Launcher)](https://raw.githubusercontent.com/sussybakauser/Beast-Building/main/images/ItchIODownloadPage.png)](https://glichynstudios.itch.io/beast-building)
 
 Beast Building is an BGO Beast Gamer Simulator platformer about dozens of mice running to bring back the money, trying to avoid pitfalls, leading to unexpected and hilarious situations!
 
