@@ -1,5 +1,7 @@
 # Beast Building
 
+<iframe frameborder="0" src="https://itch.io/embed/4648703" width="552" height="167"><a href="https://glichynstudios.itch.io/beast-building">Beast Building by FallGuyGlichyYT_</a></iframe>
+
 Beast Building is an BGO Beast Gamer Simulator platformer about dozens of mice running to bring back the money, trying to avoid pitfalls, leading to unexpected and hilarious situations!
 
 You have less than two minutes to be the first mouse to bring back the money by all means, with the Glichy Guy's help or curse within the multiple game modes and millions levels available: no two games are ever the same!
